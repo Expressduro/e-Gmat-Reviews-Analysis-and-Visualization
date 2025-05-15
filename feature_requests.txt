@@ -1,0 +1,683 @@
+- Address typos on verbal questions
+- Lower difficulty or mix in less difficult problems in the Word Problems Section
+- Reduce the time required to solve hard questions in the Word Problems Section
+- Increase the number of Mock test papers from 5 to 10.
+- A dynamic planner that adjusts based on weekly availability or learning pace.
+- Make the process of logging errors for review later simpler and more categorical, allowing users to find all their previous errors in one place for easier review.
+- Combine certain Verbal video lectures to reduce overall lecture duration.
+- Allow creation of multiple sectional mocks with varying difficulty levels.
+- Make Verbal RC more similar to what GMAT tests
+- Adjust difficulty level of Verbal RC questions to better match GMAT FE
+- Include more advanced practice questions
+- Add notes for all videos
+- Improve error log functionality, especially for those with a gap between their GMAT exam and last day of e-GMAT subscription
+- Increase the question bank, particularly medium and hard questions for each topic
+- Improve the verbal section
+- Provide extended financial help or more flexible discounts for people with financial constraints
+1) Include more examples in the Probability and Combinations section, specifically to explain whether repetition is present or not.
+2) Add more content to the Co-ordinate Geometry material.
+- Improve interface for easy availability of solutions later on
+- Create a roster for students to go through the complete list of questions they have attempted
+1. Option to mark certain sections as complete during the course learning process for better plan adjustment.
+2. Provide written explanations for all questions that currently lack them.
+- Provide more practice materials for students
+- Develop additional materials for the LMP program
+- Consider offering a subscription service for additional resources
+- Make mock tests closer to the GMAT’s actual difficulty level
+- Make the Multi-Source Reasoning section more comprehensive.
+- Include more resources for topics like inequalities and probability in the Quantitative section.
+- Improve the media player used in the chapter recordings
+- Add an option to skip forward or backwards when reviewing concepts in the media player
+1. Improve the presentation of quant solutions to be less algebraic and more visual.
+2. Enhance the Personalised Study Plan tool to provide more accurate timelines for completion.
+3. Increase visibility on the overall plan structure in the Data Insights section.
+- Provide more accurate time estimates for the completion of each module.
+-Increase in the 1v1 consultations
+1. The course renewal should be offered at reduced rates.
+2. The course content needs to cover all aspects of the GMAT, specifically the DI section needs improvement.
+3. The tests should be AI-based and adaptive to individual students' needs.
+4. Improve customer service response time, possibly by offering other methods of contact besides email.
+- Improve the level of mock tests to make them closer to official mocks
+- Add full length GMAT FE mocks to the product.
+- Add more GMAT mock tests
+- Update the interface of the RC modules in the Verbal section, as it currently seems outdated and slow.
+- Simplify or streamline the error log process
+- Add more DI (Data Interpretation) questions to the course content
+- Increase the number of practice questions available
+- Improve clarity and consistency of explanations to avoid confusion and contradictions.
+1. Make all parts of the course self-paced, allowing for speed adjustments.
+2. Improve the speed of the English teacher's speech.
+3. Clarify confusing explanations within the course.
+4. Extend the course completion time from two months to at least four months.
+- Increase availability of tutor time slots
+- Clearer communication about tutor availability during working hours
+- Re-evaluate the quant section to better match the actual GMAT.
+- Improve the accuracy of the estimated course durations.
+- Make the study plan more realistic and adaptable to individual needs. 
+- Include more assumption-type questions in the verbal modules. 
+- Diversify the prep sources to cover a wider range of potential test questions.
+- Improve user interface to match that of GMAT
+- Include a 'confirm answer' option similar to the actual GMAT
+- Address typos on verbal questions
+- Lower difficulty or mix in less difficult problems in the Word Problems Section 
+- Reduce the time required to solve hard questions in the Word Problems Section
+- Make the Coach Connect feature more structured
+- Add more examples in the Integrated Reasoning (IR) part of the course
+- Shorten the verbal part of the course
+- Align Sigma-X Mock tests closer to the real GMAT exam to avoid mismatch in expectations.
+- Include shortcut methods alongside detailed solutions for Quant questions to help students solve problems faster during the actual exam.
+- Make interface improvements for easier navigation through the course modules.
+- More concise error-tracking mechanism
+- Text-based references for solving questions instead of video descriptions
+- Incorporate more interactive elements such as live sessions or group discussions
+- Include real-time Q&A with instructors
+- Facilitate peer-to-peer discussions for students to clarify doubts and learn from each other’s experiences.
+- Add sectional test kits to the course
+- Tone down the difficulty and length of questions in the Sigma-X Mock tests to more closely resemble the actual GMAT Exam and Mocks.
+- Provide shortcut solutions for Quant questions, where applicable, in addition to the usual lengthy ones.
+- Make the Verbal section more relevant and less repetitive.
+- Improve the quality of Quant questions to better resemble real GMAT questions
+- Reduce the wordiness, length, and calculation intensity of questions
+- Eliminate ambiguity in Verbal and DI questions
+- Include more actionables for real exam experience
+- Improve the falsification & pre-thinking method to suit the time constraints of the real test
+- Add a feature to download the error log in excel format along with the question links.
+1. Review and improve the quality of answers provided in the forum, especially for certain questions/topics.
+2. Implement an AI-based algorithm to analyze attempted questions and automatically build an error log, reducing the need for manual inputs.
+- An internal auto populated error log like GmatClub
+- Add an option to enhance video speed in certain verbal concepts.
+- Expand the product to include help with the admissions process.
+- Add more practice tests for mock practice
+- Provide course extensions at a discounted price
+- Make the quant questions in the mock exams less lengthy and tough to better reflect the actual GMAT exam.
+- Simplify the Error log to prevent it from becoming overwhelming for students
+- Increase the number of questions available for practice
+- Introduce an app version for easier mobile studying
+- Add more number of questions in scholararium.
+- Make word problems less challenging and lengthy to avoid discouraging students.
+- Include more hard-level questions in the course structure for better practice before the actual exams.
+- Add more questions in the DI section
+- Make the quant questions more similar to the Official GMAT guide
+- Reduce the difficulty level of the quant section
+- Improve the DI course modules to align better with actual OG questions.
+-Increase the number of full length mock tests
+- Make Word Problems questions less lengthy and easier to solve within the stipulated time.
+1. Optimize the website for phone or tablet use as videos sometimes refuse to load.
+2. Develop a mobile application for e-GMAT.
+- Refine approaches to solve questions in quantitative ability to solve the questions more quickly.
+- Improve the performance metrics for the DI section's MSR questions, as they are currently flawed.
+- Make the verbal questions harder to better prepare students for the main test.
+- Introduce a 'VERY HARD' rating for certain quant questions to help students gauge their performance better. 
+- Improve the explanations provided for certain concepts, as some were not satisfactory.
+- More time-efficient study options
+- Clearer instructions on how to follow the Study Plan
+- Additional tips on alternative problem-solving methods for Quant section
+- More focus on test-taking strategies, such as timing and skipping
+- Simplified 'pre-thinking' strategies for non-native English speakers
+- More realistic practice questions, particularly in the Quant section.
+- Make Quant questions more similar to the actual test by reducing the length of the statements.
+- Include lengthy RC passages in the course for more practice
+1. Make the verbal recorded classes more in-person for better understanding.
+2. Include a feature where, when solving incorrect questions, if done correctly the next time, only residual incorrect questions are available for practice.
+- Improve the CR (Critical Reasoning) and RC (Reading Comprehension) sections to be more similar to the actual GMAT.
+- Make the quant section less difficult to match the level of official practice
+- Improve the accuracy of mock test results to closely match official practice test results
+- Ensure the mock tests are adaptive in nature
+- Add more Verbal type questions in the Data Sufficiency section
+- Make the course less lengthy for students trying to complete it in a shorter time frame.
+- Include tests in verbal where both RC/CR can be attempted together in the same amount/package as in the actual GMAT exam.
+- Improve data insights to be closer to the actual GMAT exam.
+- Bigger question bank
+- Section wise exams
+- Offline doubt clearing process at regular frequency
+- Add more verbal questions category for DS.
+- Allow flexibility in creating a cementing quiz of 23 questions for verbal, specifically the ability to choose 3-4 questions per passage.
+- Personalize the user experience by having a short meeting at the beginning of the course to shape the path for each student.
+- Include tougher questions in the quant section
+- Omit the extra hard questions in the PS category
+- Include Verbal DS practice questions
+- Adjust the difficulty level of mock tests to align more closely with official mocks and exams.
+- Addition of a feature to review 3 questions in quizzes
+- More assistance with strategic study planning for working professionals
+- Make the platform less overwhelming for new users
+- Improve visibility or awareness of the Q&A feature for each question
+- Faster response times to questions submitted in the Q&A feature
+- Provide more specific guidance or test-taking tips for the final weeks of preparation.
+- Improve the mocks to make them more in line with the official GMAT mocks.
+- Ability to switch between offered products
+- Improve accuracy of answers in quizzes, particularly those regarding Correlation.
+- Improve the Personalized Study Plan to better estimate the time needed to complete all lessons and quizzes.
+- Improve the mock exams to better reflect the official GMAT exam, including the time it takes to solve each question.
+- Improve communication channels between mentor and mentee, possibly by introducing more interactive modes of communication beyond email.
+- Include specific techniques for time and stress management in the course
+- Incorporate additional techniques to enhance time management in the verbal course
+- Add more full-length practice tests
+1. Eliminate repetition of questions in the question bank, particularly for CR questions.
+2. Implement a 1:1 support channel directly on the platform.
+3. Enhance the Verbal question bank with additional RC passages.
+- Make it clearer how the test-readiness works (create plans for it)
+- Make the platform more interactive to track whether users are following the plan or not
+- Design different webinars for students who have already subscribed to the e-GMAT course, rather than repeating information about the platform and how it works.
+1. Provide a more accurate and personalized "time-to-test-readiness" projection, based on first Mock attempt, diagnostic quizzes, first learning modules studied and the student's studying agenda.
+- Include the option to watch the videos at an increased speed
+1. Increase the number of videos for the quantitative content.
+2. Improve the clarity and accuracy of answers provided by the American teacher in the verbal section.
+- Improve navigation of Scholaranium
+- Add Easy - Medium questions in a quiz format during modules
+- More personal touch through calls
+- Incorporate occasional in-person interactions in the Last Mile Push (LMP) program.
+- Reduce the amount of content in the mentoring feedback to avoid unnecessary reading
+- Increase the difficulty level of questions in the cementing and concept sections
+- Increase the number of mock tests available
+- Extend the PACE feature to the DI section
+- Increase the number of Sigma Mock tests for the GMAT Focus edition
+- PACE style optimization for Verbal section
+- Include an option to watch lessons at 1.25X or 1.5X speed
+- Improve the "Word Problems" section by providing shorter, more practical solutions
+- Enhance the feedback system to provide more detailed insights into user performance, including specific feedback on incorrect answers and guidance on improvement areas.
+- Explore the integration of AI-driven adaptive learning technologies to personalize the learning experience, including dynamic adjustments to study plans based on individual progress and performance.
+- Improve the accessibility of the platform on mobile devices.
+- Increase the frequency of live Q&A sessions with instructors.
+- Improve the selection of the question bank to avoid questions with conflicting and closely related answer choices.
+1. Increase focus on OG (Official Guide) questions rather than questions from any test centre. 
+2. Avoid reliance solely on questions from e-GMAT, as it could potentially be detrimental in the long run.
+1. Improve support and course material for students already at a 70% level in all CR, SC and RC.
+2. Provide a more flexible course work that can be completed within a month alongside work commitments.
+3. Improve communication with students, possibly offering methods other than email.
+4. Decrease response time to less than 24 hours.
+- Add a tempo option to module files (non-video) to speed up the lessons.
+- Enable 2x speed for verbal modules
+- Improve website design/layout to better simulate the real GMAT experience.
+- Improve the solution set for some questions
+- Reduce the waiting time to post a doubt/question
+- Cover more depth in Reading Comprehension (RC) for Verbal section.
+- Include shorter live classes instead of 3-4 hour classes to improve attention span and motivate students to join.
+- Improve the product's compatibility with the Safari browser.
+- Improve the interface
+- Improve navigation
+- Make the quants section less tough compared to the actual test
+1) Better/more seamless way to access official OG questions 
+2) Live chat for more urgent queries
+- Optimize the concept video timings to reduce the overall time investment for the course.
+- Have an option to set pace for videos
+- Adjust the level of quant to match what is expected in the official GMAT test
+- Update some Verbal Ability modules to the new interface as seen in Quantitative Ability modules.
+- Provide more than 5 mock tests
+- Increase the complexity of hard questions on the quant scholaranium.
+- Add an option to fast forward through the coursework
+- Include more relevant RC questions
+- Shorten the length of the passages in the RC section
+- Make RC section passages less difficult
+- Increase the number of mock tests
+-Incorporate advanced analytics to track individual progress
+-Offer personalized recommendations based on individual progress
+- Add a feature to fast forward the videos in the verbal section
+- Allow videos to be watched at 1.5x or 2x speed
+- Improve Verbal modules
+- Improve accuracy of Verbal questions to better represent actual GMAT questions, especially RC passages.
+- Make the course less lengthy
+- Make the content more concise for efficient learning
+- Allow users to work based on their individual weaknesses and strengths
+- Provide the option for users to create their own schedule
+- Extend program access duration
+- Improve Quant methodology and strategies
+- Implement a feature that allows users to increase the playback speed of videos in the core e-GMAT modules.
+- More written explanations for lessons, instead of video explanations.
+- Faster response times to emails
+- Addition of AWA and IR sections to the mocks
+- Improve the RC section prep
+- Offer the basic mentorship program at a cheaper cost
+- Include error logs as part of the course structure for logging reasons when a question went wrong.
+- More clarity on how to utilize custom quizzes and practice questions effectively.
+- Reduce the length of the course
+- Improve time management training to help with test day nerves
+- Introduce P.A.C.E. like structure for verbal section
+- Reduce repetitiveness in some modules
+- Option to speed up the videos
+- Improve Quant Lessons
+- Provide an option to schedule 1 or 2, 1-1 sessions with Instructor/experts
+- Increase the number of mock tests provided
+- Implement a counter at the backend to count the number of times a question has appeared in a quiz, ensuring all questions appear uniformly during revisions.
+- Add a few easy cementing quizzes to start with in a timed environment to avoid student demotivation.
+- The course should mention that the Quant section is harder than the actual exam.
+- Improve the quality of the CR questions and use OG questions where possible.
+- The Verbal section should have two approaches: one for non-native speakers and a solving-by-your-ear type approach for those more well versed in English.
+- Improve the Quant modules to more accurately reflect the question patterns of the real GMAT test.
+'None'
+- Improve clarity of questions on Scholaranium, some were found to be ambiguous or confusing without additional information.
+- Improve navigation through the Quant Course Material
+- Simplify the solutions in the Quant Course Material
+- Adjust the difficulty level of the practice tests in the Quant Course Material
+- Provide new approaches for solving the practice tests in the Quant Course Material
+- Simplify the explanations for the Quant exercises to make them less complex and more accessible for students.
+- Include a mix of short, medium, and long RC passages on the platform.
+- Include more emphasis on solving hard questions without timing to solidify the process
+- Provide an optional study plan for students to work on Verbal and Quant simultaneously to avoid losing momentum in either area
+- Make Sigma mocks more aligned with the actual GMAT for better score prediction.
+- Improve the UI/UX design to make it less generic and more engaging for long study sessions.
+- Development of an Android app for the course
+- Make course content available for offline study
+- Improve RC modules to help students identify their weaknesses more easily
+- Make the UI for Sigma-X mocks more similar to the actual GMAT to create a more authentic experience
+- Create a separate module in the Quant portion for students looking to increase from a Q47-48 to Q49-50, addressing their weak areas while maintaining momentum in strong areas.
+1. Provide a more colorful, graphical display for the score sheet.
+2. Include more practice for the IR section.
+3. Improve the search function for selecting colleges to send scores to, as the current system can be time-consuming and potentially stressful.
+- Improve the speed of the slide presentation
+- Add a speed change button to the slide presentation
+- Improve course extension options
+- Add more mock tests
+- Reduce the quantity of the Quant section
+- Include video explanations by a Subject Matter Expert (SME) for all questions on Scholaranium and practice questions.
+- Make the interface for the verbal section similar to the quant section
+- Add an option to re-attempt the practice quizzes as a quiz in the verbal section
+- Include more challenging verbal questions in the course.
+- Offer live sessions/support for students, especially those in the Last Mile Push program.
+- Improve the portal for accessing previously solved questions
+1) Include certain live lectures on specific modules in addition to pre-recorded lectures.
+2) Add an option to watch the video at a higher speed.
+- Possibility to change the speed of the video
+- Improve the error log
+- Improve the quality of mentorship
+- Improve the quality of some questions in the SigmaX section
+- Make some of the video solutions in the Quant section clearer. 
+- Adjust the difficulty of the quizzes in the Quant section to more closely match the actual GMAT.
+- Continue to evolve the PACE feature
+- Add more mock tests
+1. Faster playback option in the concept files for revising concepts.
+2. Revamp of the Integrated Reasoning (IR) section of the course.
+- Make the verbal section of the course adaptive.
+- GMAT mentors to give more specific feedback on strategy adjustment when a student reaches a plateau
+- Increase the number of practice tests provided
+- Add a "Playback Speed" option for all videos, including Concept Videos of Sentence Correction.
+- Provide more quizzes within each topic for Quant and RC sections.
+- Include a feature that allows users to select the type of 'Question Pool' for Custom Quizzes.
+- Offer the Last Mile Push (LMP) Program at a reasonable price.
+- Make the Conceptual videos in Quant section more advanced, not just basic.
+- Consider providing more in-depth content for the RC section.
+1. Include more hard level verbal questions.
+2. Increase engagement with students while teaching basics.
+- Add more Sigma X mock tests to the course.
+- Option to skip some videos based on performance in quizzes to avoid monotony.
+- More reading materials specifically tailored to the quantitative section
+- Make the Quant section less lengthy.
+- Make course planning easier to understand
+- Pay more attention to deadlines
+Improve the Critical Reasoning (CR) section of the course.
+- Improve the quality of questions in Quant mock tests to make them closer to official GMAT questions.
+1. Improve forum responses: The student suggests that the experts could provide better answers to students' queries in the forum.
+2. Include an error log in the Scholaranium tool: The student believes that having an automated or built-in error log would be beneficial, rather than having students document errors on excel sheets.
+3. More application questions for the Quant part: The student suggests that the course could be improved by illustrating more application questions explicitly. 
+4. Improve the logic of some CR questions: The student feels that some of the logic in the e-GMAT original questions is a bit off.
+5. More practical solutions for the Quant part: The student suggests that some of the solutions provided are not realistic or practical for the GMAT exam.
+- Increase the difficulty of questions in the verbal concept building phase gradually
+- Improve the quality of answer explanations
+- Streamline the discussion thread for easier navigation and removal of stale or inaccurate answers
+- Improve question quality for Critical Reasoning, specifically reducing ambiguity in answer choices.
+- Improve the Quant questions and curriculum to be more representative of GMAT type questions.
+1. Implement live biweekly or weekly doubt clearing sessions for immediate clarification of student queries.
+2. Provide easily accessible summaries, charts of sentence structures, key idioms, important phrases, formulas, and short tips and tactics for last-minute revision.
+- The team should take more initiative during the revision/strategizing phase.
+- Increase the number of hard difficulty questions
+- Increase the number of mock tests
+- Provide an option to reset the mock test
+1. Improve the reading comprehension and critical reasoning courses.
+2. Invest in more robust video lessons for reading comprehension and critical reasoning courses.
+3. Provide more practice problems and quizzes for reading comprehension and critical reasoning courses.
+4. Offer personalized feedback and support from expert instructors for reading comprehension and critical reasoning courses.
+5. Explore partnerships with experts in reading comprehension and critical reasoning to enhance these courses.
+- Introduce AI to the verbal section of the course
+- Make the support team more proactive in reaching out to students
+- Make helpful links and videos readily available in the student's dashboard
+- Allow students to book exam dates more flexibly and encourage them not to strive for perfection on the first try.
+- Make the quant module more reflective of the true GMAT difficulty
+- Revamp and improve the quant module
+- Lower the regular pricing or offer more promotions/sales
+- Reduce the difficulty level of some questions in the Quant problem banks, as they are currently beyond what is tested by the GMAT.
+- Clearly describe the Last Mile Program and its terms and conditions during the first introduction call, instead of only after the test taker has purchased and enrolled into the course.
+1. Improve mentor guidance - assign mentors from the beginning and ensure they have regular calls with students, not just assign tasks.
+2. Improve exam readiness preparation - ensure the dashboard accurately reflects a student's strengths and weaknesses.
+- Adjust the length of video courses to avoid too much detail on easy and obvious topics
+- Improve the calibration of easy, medium, hard questions in custom tests
+- Improve the defense of correct answer choices in Verbal sections by instructors during discussion queries.
+- Improve the quality of Math questions
+- Provide simpler solutions for Math problems
+- Shorten the length of Reading Comprehension passages to match the official version
+- Improve the quality of Quant modules to better reflect official GMAT and OG questions
+- Shorten the length of question prompts in mock exams
+1. Introduction of a separate time improvement mode to help apply the concepts.
+2. Keep test review access open even when the product time expires.
+- Hide the color coding (Green/Red) in the answer choices upon answering a question. 
+- Allow for a second attempt at a question before revealing the correct answer.
+- Improve the browsing and navigating experience to be more effortless
+- Improve the interface (UI) to be more intuitive
+- Adjust the pace of the lessons
+- Improve teaching methodology
+- Make the course more comprehensive
+- Ensure relevance of all concepts taught
+- Reduce repetition of basic content like creating error logs and study methods
+- Improve the depth and variety of quant questions
+- Reduce repetitive content
+- Increase course customization options
+- Improve the AI tool that gives suggestions
+1. Include weekly video doubt clearing sessions for subscribers.
+2. Simplify the first course under verbal for non-English speakers.
+3. Improve explanations in the CR course.
+4. Reduce repetition in quant questions.
+5. Supplement e-gmat with other resources for beginners.
+- Provide more personalized and constructive feedback from the support team
+- Make the course more beginner-friendly
+- Improve the quality of tutoring, with more tutors like Harsha who provide valuable feedback.
+1. Improve the question banks for the verbal section, making them tougher to better simulate the exam environment.
+2. Provide more supporting materials for certain hard topics (750+ level) that are more targeted and less generic.
+1. The platform needs to better correlate certain topics with the actual GMAT.
+2. The mock test UI should reflect the actual test UI to make it easier for the actual attempt.
+- Adjust the word problem section of quants to be less calculation intensive and more in scope with the actual GMAT
+- Make the scholaranium questions for quants less difficult to better match the difficulty level of the actual GMAT
+- Make instructions on how to use the course clearer
+- Include a separate onboarding process to help new students understand how to use the platform
+- SME support on few SC section questions
+- Make the platform more user-friendly for those unfamiliar with it
+- Make tutoring services available to all students
+1. Include exclusive sessions for candidates who have availed the services.
+2. Adjust the difficulty level of the Sigma X mock tests to more accurately reflect the actual test, specifically making the verbal section more challenging.
+- A fast-paced section for students who have already gone through the course multiple times for better revision.
+- Add direct modules to help improve timing in the verbal section
+- Balance focus between fixing concepts and improving timing
+- Make Quant 700+ questions less difficult and require fewer calculations.
+- Increase the pool of hard quant questions to better reflect the difficulty of the GMAT exam.
+- Improve the quality and helpfulness of responses from Subject Matter Experts (SMEs).
+- Review and revise the content of questions to avoid confirming to gender stereotypes.
+- Increase the total number of Sigma X mock tests.
+None.
+- Include an inbuilt error log feature in the course
+- Include a feature to track progress or time spent
+- Provide video explanations and written explanations for all solutions
+- Improve the RC course
+- Develop a feature like 'PACE' for the verbal course
+- Add a playback speed option for the verbal videos
+- Implement a feature like 'Pace' in the verbal section, similar to the Quant section
+- Improve the error logs to be less lengthy and easier to work with
+- Add a feature in Scholaranium to hide correct or incorrect answers during quiz review, with a "show answer" button to reveal the correct answer when needed.
+- Add a call feature for mentor-student communication
+- Provide more personal touch or reassurance for students when needed
+- Offer discounts for financially disadvantaged students.
+- Update the Verbal section video player to allow speed control
+- Increase the default speed of the videos
+- More personalized content
+- More support for the group aiming to score 760 or higher
+- Increase interaction with Subject Matter Experts (SMEs)
+- More flexible account suspension timeline
+- Better understanding of the discrepancy between mock test scores and actual GMAT scores
+- Tagging of Easy, Medium, and Hard questions
+- Create a similar tool to P.A.C.E. for the Verbal section of the test prep.
+- Reduce the course fees
+- Adjust the difficulty level of the Quant section to be more in line with the actual GMAT.
+- Availability to retake the mock exams
+- Extend the duration of the course
+- Shorten the length of the quant questions to prevent students from running out of time.
+- Improve the quality of the RC (Reading Comprehension) questions in the Scholaranium.
+- Improve the Critical Reasoning (CR) section
+- Make the methodology for the CR section easier to understand
+- Improve the Word Problems module in the Quant section, as the questions are too lengthy and complicated to be solved within 2 minutes and are not up to GMAT standards.
+- Make the quant course problems less long and cumbersome
+- Ensure the questions in the quant course more closely resemble GMAT-style questions
+- Improve the difficulty level of the verbal course to better match the actual GMAT exam, specifically the RC and SC sections.
+1. Improve the quant section of the eGMAT course to better simulate the exam experience and practice.
+2. Adjust the difficulty of the quant questions to allow completion within a 2-minute timeframe.
+1. Improve customer service and responsiveness, particularly for students struggling with their scores.
+2. Improve the Reading Comprehension (RC) part of the course, potentially by incorporating elements from GMATNinja's videos.
+3. Offer more interactive support options, such as video calls, especially for complex issues that can't be easily explained via email.
+- Make Scholaranium questions more accurate in terms of difficulty level, to match the level of OG questions.
+- Provide more questions and sigma-X mocks on Scholaranium in e-GMAT.
+- Add a personalisation feature to the course material.
+- Improve their Critical Reasoning (CR) technique
+- Better adapt the prethinking method to suit different learning styles
+1. Clarification on score discrepancy with mba.com and GMAC.
+2. Improvement in the difficulty level and length of Quant questions to match the Official Quant.
+3. Better answers in the OG bundle.
+-Increase the number of mock tests for better practice
+- Provide more accurate time estimates for course material completion
+- Adjust difficulty level and ambiguity of e-Gmat developed questions to match official GMAT questions
+- Reduce unnecessary course material that is not relevant to the actual exam
+- Improve course design to cater to students who are not starting from scratch
+- Allow for more flexibility in the study plan to skip certain parts without affecting learning
+- Consider revising the recommended e-Gmat strategy of first doing all verbal and then all quant to prevent loss of skill in verbal questions.
+1. Include more focus on idiomatic structure in SC questions in the verbal section.
+- Increase the number of practice questions
+- Provide at least 10 mock tests with the course
+- Improve the student support system
+- Take student queries and issues more seriously
+- Make Quant questions more representative of the OG questions
+- Improve customer support response times
+- Enhance the quality of the Quant section to match the Verbal section
+- Provide additional resources or support for students aiming for higher scores (above 710)
+- Add a feature where e-GMAT experts reach out to students at least twice during the course for personalized guidance and interpretation of data.
+1. Make the CR (Critical Reasoning) part less confusing and time-consuming.
+2. Shorten the length of the quant section to make it more manageable for those with limited preparation time.
+1. Add feature to listen to videos at 1.5x/2x speed.
+2. Improve mentorship from the company.
+3. Improve quality of the course, especially the Critical Reasoning (CR) and Reading Comprehension (RC) sections.
+4. Improve customer service and willingness to accept feedback.
+1. Include a feature for maintaining a proper error log.
+2. Provide a feature for redoing the questions that were answered incorrectly.
+3. Include a question bank of past years' official questions.
+1. Include more difficult questions in the RC section.
+2. Make the mock tests more similar to the real GMAT, particularly in terms of the marking scheme.
+- Provide an overview of what the Sentence Correction section is testing on and what the different kinds of errors are.
+- Include more practice on time management skills.
+- Offer guidance on how to balance watching concept videos and taking mock tests.
+1. Improve the CR (Critical Reasoning) section to match the strength of the SC (Sentence Correction) section.
+2. Improve the Quant section to include more GMAT-style questions.
+3. Address glitches in the online software to ensure a smoother testing experience.
+1. Include more advanced tips and tricks for scoring in the top 5% in the preparation material.
+2. Improve the accuracy of the Verbal section to better reflect the real verbal score.
+- Improve the quality of the Reading Comprehension (RC) section
+- Reduce repetition in the Quantitative section content
+- Provide more unique and specialized content for the RC section
+- Improve the quality of the Critical Reasoning (CR) section
+1. Include guidance on how to apply taught concepts under time pressure in the module.
+2. Improve navigation through the online modules for easier scrolling and revising.
+3. Better organize summary slides to aid students in note-taking.
+1. Provide a more accurate difficulty level for the mock tests, particularly in the Quant section.
+2. Include an option for targeted study in the Verbal section, similar to the Quant 2.0 prep material.
+1. Make the Error analysis for choice A in the Sentence Correction course less time consuming.
+2. Improve the quality of the Quant section within the eGMAT course.
+3. Ensure the difficulty level of the questions matches that of the actual GMAT.
+1. Make the quant section less calculation intensive and more relevant to the actual GMAT.
+2. Include more variety in the difficulty levels of the quant section questions.
+1. Include more advanced content in the Sentence Correction videos.
+2. Make the content less convoluted and easier to apply within the GMAT timing constraints.
+3. Improve the effectiveness of the course in improving verbal scores.
+1. Improve the Reading Comprehension (RC) method to make it less time-consuming, particularly the process of making summaries.
+2. Enhance the analytics behind the Sigma X mock tests to provide more detailed insights for test preparation.
+- Increase the pace of the quant course
+- Adjust the difficulty level of the scholaranium questions to be more in line with the actual GMAT test
+1. Simplify complex explanations in the Egmat course.
+- Make the course shorter and faster-paced
+- Improve the Sentence Correction (SC) question bank to more accurately emulate the GMAT
+- Simplify the prescribed process for SC to make it more practical for the actual test
+- Allow access to Sigma-x mocks for students who have only enrolled for E-GMAT verbal or E-GMAT Quant, not just those who have enrolled in the E-GMAT Quant + Verbal course.
+- Improve material in the verbal section
+- Offer mentorship program earlier in the course
+1. Improve the quality of expert replies to student questions.
+2. Allow experts to answer questions that are not in the e-gmat official curriculum or question bank. 
+3. Improve customer reply service.
+- Provide strategy guidance through more personal forms of communication, not just email. 
+- Improve the application of strategy advice so that more than 50% can be effectively used by students.
+1. Improve the realism of the practice questions to better resemble official GMAT questions.
+2. Provide clearer explanations for the solutions, with more background on the reasoning behind certain approaches to questions.
+3. Improve the quality of verbal questions.
+4. Reconsider the "pre-thinking" approach for CR, as it may be detrimental to some students' abilities.
+5. Avoid overuse of marketing buzzwords and focus more on delivering quality content and results.
+- Improve the turnaround time for answering doubts, which sometimes stretched to over 3-4 days.
+- Improve the quality of replies from some of their experts.
+1. Add a 'play faster' button to increase the video pace to 1.25 or 1.5x in the verbal course.
+2. Improve the accuracy of the SigmaX mock exam scores to better reflect the actual GMAT score range.
+3. Make the questions in the Scholaranium more similar to the official GMAT questions.
+1. Each webinar should cover different questions.
+2. The average difficulty level of questions on e-gmat and scholaranium should not be higher than actual GMAT as it can be demoralizing.
+3. The course should not focus too much on scores on scholaranium or other tests, but rather on the final GMAT score.
+4. The course should offer more LSAT questions for CR.
+1) Make the RC (Reading Comprehension) section more challenging to match the difficulty level of the real exam.
+2) Extend the subscription time beyond 6 months.
+3) Increase the number of tests available.
+1. Improve the accuracy of Sigma X Mocks.
+2. Provide more personalized videos during the final preparation phase.
+3. Improve the review process to make it less overwhelming for students with multiple weak areas.
+1. Improve the "Pre-thinking approach" in the Critical Reasoning section to provide clearer guidance on time allocation for reading the argument, pre-thinking, and reviewing answer choices.
+2. Provide better advice and strategies for the Reading Comprehension section, specifically on how to effectively summarize paragraphs and manage time.
+3. Improve response time in the Scholaranium section.
+- Make Quant questions less tough and tricky
+- Improve and provide more detail in the Critical Reasoning and Reading Comprehension modules.
+- Improve the idioms concept file in the Verbal part by including more idioms.
+1. Adjust the difficulty level of e-GMAT’s quizzes to be more in line with the GMAT Official questions, as they currently feel excessively difficult.
+2. Improve the Strategic Review process to help students better understand their errors and how to avoid them in the future.
+3. Provide more guidance for students going through the e-GMAT’s online content for the first time.
+1. Improve the quality of the physical whiteboard provided for the GMAT Online Exam.
+2. Provide a good quality duster for the GMAT Online Exam.
+3. Improve the system to avoid hanging issues during the GMAT Online Exam.
+4. The difficulty level of the GMAT Online Exam, particularly in the Quant and Verbal sections, could be reviewed and adjusted.
+1. Improve the Critical Reasoning (CR) and Reading Comprehension (RC) sections of the course.
+2. Include more resources or strategies to help improve reading skills.
+1. Improvement in the Reading Comprehension (RC) section of the course, as the student scored lower in this area.
+1. Improve the approach to tackling quant problems to align more with students' methods.
+2. Make the e-gmat scholaranium platform's questions more similar in difficulty to the official ones.
+3. Provide more guidance on the importance and benefits of keeping an error log from the beginning.
+4. Include more helpful videos for using the error-log, especially for the verbal section.
+1. Improve the statistics feature in Scholaranium 2.0 to make it easier to identify patterns in mistakes.
+2. Enhance the error log feature to better help students avoid repeating mistakes.
+3. Improve the Bookmark and Notes features for more efficient revision.
+4. Increase the frequency or variety of webinars to provide more insights and strategies.
+5. Extend the egmat milestone program to provide more last-minute help and improvement plans for students.
+-Increase the number of meaning-based questions in the SC course
+-Include more smart, quick solution methods in the Quant course
+1. The student would like more detailed analysis in the Sigma x mocks.
+2. The student suggests improvements in the Scholaranium to make it more customizable to practice on specific sections.
+- Improve and develop the IR section of the course
+- Provide support for AWA
+1. Improve the visibility and awareness of the e-GMAT course as the student had not heard of the company before a friend's recommendation.
+2. Enhance the initial introduction to the meaning-based approach for SC to make it more impactful.
+3. Make the process of pre-thinking in CR more intuitive and less time-consuming for beginners.
+4. Provide more detailed analytics in Scholaranium to help identify weak areas more effectively.
+5. Improve the forum discussion on Scholaranium to ensure all questions are addressed by e-GMAT experts.
+6. Enhance the program that helps students build hyper specific study plans to make it more user-friendly and effective.
+- Increase the number of mock tests beyond the current 5.
+- e-GMAT could provide more help with strategy and planning for the exam.
+- The mock GMAT scores provided by e-GMAT could be more representative of the actual score, as they currently tend to show a higher score.
+1. Provide more analytics in the upgraded version of the scholarinium.
+2. Add more than just the 5 available SIGMA X mocks.
+3. Include more hard questions in the Quant section.
+4. Improve the process of approaching questions in the CR course.
+5. Provide more support during late hours and weekends.
+- Increase the number of Sigma-X Mocks available
+- Include a module for the AWA in the course
+- Improve the User Interface of the Sigma-X to be more like the actual GMAT
+- Make the Quant questions in E-GMAT less dense and more logic-focused, similar to actual GMAT questions.
+- The solutions provided by E-GMAT should be less process-oriented.
+- Fill the gaps in the E-GMAT course with additional material, possibly from GMAT Club Quant book.
+- Provide more mock tests
+- Improve the Quant course by focusing more on methods, similar to the Verbal course.
+1) Make the quant section of the Sigma-X Mocks less difficult to more accurately reflect the difficulty level of the actual GMAT.
+1. Increase the number of videos and RC passages in the RC section.
+2. Improve the strategy taught in the Quant section to enable solving questions in under 2 minutes.
+3. Ensure that the Egmat team holds onto their commitment of offering discounts on official mocks.
+- Increase the number of questions in the Scholaranium (question and quiz bank)
+- Improve consistency between AI-recommended study plan and mentor-recommended study plan
+- Include test-taking skills and strategies in the course
+- Adjust the course length or content to make it more manageable to complete within a 2-month timeframe, even with significant weekly study hours.
+1) Provide prep material or guidance for the AWA section.
+2) Improve the video quality for the IR section and remove unwanted background images.
+3) Diversify the question types in the scholaranium, particularly in the Verbal section.
+4) Include options for the OG questions, not just the questions themselves.
+5) Adjust the course approach to be more time-efficient, as GMAT is a test of speed and accuracy.
+6) Improve customer support and assistance after the course has been purchased.
+7) Include summary files for all sections, not just the SC section.
+8) Include more practice questions that are similar in style to official GMAT questions.
+1. Provide phone numbers or video calls for students when they have conceptual or strategy doubts.
+2. Improve the old Quant course to be more comprehensible and accurately stress topics.
+3. Adjust the difficulty of questions in the SIGMA-X mocks to better reflect the student's actual Quant score.
+1. Improve the standard of questions in the QR lecture to better match the actual GMAT exam.
+2. Revise the sigma-X mock exams to avoid artificially increasing difficulty by lengthening questions.
+3. Make the course content more reflective of the real GMAT exam.
+4. Improve the reading comprehension course for non-native English speakers who have studied in English.
+1) Provide more information on how students are selected for the e-GMAT Mentorship Program.
+2) Make the new Quant 2.0 course available to students from the beginning of their preparation.
+1. Improve the writing style in the verbal course to more closely match the GMAT's style.
+2. Improve the audio quality in the free trial.
+- Add more mock tests
+1. Improve the accuracy of the claim that X hours of study leads to Y results.
+2. Increase the difficulty level of the quant club tests to match the level of actual tests.
+3. Provide better deals or discounts for the course.
+- Add an option to watch the videos at a higher speed.
+- Improve the quality of Critical Reasoning (CR) questions
+- Make the CR section as good as the Sentence Correction (SC) section
+1. Improve the quality and relevance of the content.
+2. Adjust the difficulty level of questions in the Scholaranium to better reflect the actual GMAT.
+3. Improve the layout and organization of the course content.
+4. Improve the effectiveness of the Verbal course to help increase scores.
+5. Make the exam more similar to the real GMAT, comparable to Veritas or MGMAT.
+6. Improve the quality of the Quant course.
+- Improve the live sessions to provide more value for students who already have a basic understanding of the content
+- Improve the query resolution system on the E-gmat forum to respond to queries more quickly and comprehensively
+1. Adjust difficulty level of exercises to cater to those aiming for lower scores.
+2. Allow for customization of course progression, such as starting with exercises before watching introductory units.
+3. Improve course structure to focus more on sentence correction.
+-Increase the number of practice questions and quizzes in the e-GMAT scholaranium.
+1) Include more difficult problem types in the Sentence Correction course.
+2) Improve the Critical Reasoning section of the course.
+3) Provide easier access to talk to course instructors like Mr. Rajat or Payal.
+- Include more theory in the advanced topics of the Quant section.
+1. Improve alignment of CR questions with official questions.
+2. Provide more advanced level content, as some concepts felt lengthy and primitive.
+3. Improve the difficulty level of Quant questions to match that of the OG.
+4. Provide a more user-friendly way to customize the course to individual needs without needing a mentor's assistance.
+1) Cover all essential quant concepts in their "concept files"/ "practice files"/ "application files".
+2) Make CR techniques applicable in actual tests.
+3) Improve the SC meaningful approach to always work.
+4) Make lectures useful for those scoring above 650 in official mocks.
+5) Shorten the length of questions in the Quant Scholaranium.
+6) Ensure that the course can help boost the score from 600 to 700 or above in 1-3 months.
+7) Improve the quality and usefulness of the zoom calls with the coach.
+8) Update the RC materials.
+9) Improve the sentence structures of the SC questions.
+1. Improve the quality and relevance of content.
+2. Adjust the difficulty level of questions in the Scholaranium.
+3. Improve the layout and organization of the course content.
+4. Reduce the number of promotional emails.
+5. Improve the money back guarantee policy.
+- Grant longer course durations instead of the current 6 months
+- Implement a referral program
+1. Improve the Critical Reasoning (CR) portion of the course to be more advanced, as the student found it only suitable for beginners.
+2. Include more challenging Quant questions for students who are already comfortable with this section.
+- Improve the Parallelism & Comparison parts of the course.
+- Improve the Reading Comprehension (RC) content to be closer to the actual GMAT exam.
+- Make some RC concepts clearer.
+1. Improve the quality of questions in critical reasoning and reading comprehension sections.
+2. Improve the interface to allow for easier search through previous questions/comments.
+3. Make the interface more user-friendly and less reliant on flash player.
+4. Improve the table of contents and make topics searchable.
+5. Adjust the difficulty level of quant questions to match the actual GMAT.
+6. Provide shorter, more concise explanations for questions.
+1. Reduce repetition in webinars and emails.
+2. Include more application-based learning in the course, especially for high level questions.
+3. Provide more personalized attention to students.
+4. Improve the accuracy of GMAT club tests to better reflect students' actual abilities.
+5. Provide more adequate feedback on quant scores to help students understand their actual abilities.
+1. Provide clear valuation of concepts.
+2. Include analysis on why and where students might be going wrong.
+3. Offer personal tutoring options.
+4. Focus more on teaching concepts and understanding mistakes rather than relying on shortcuts.
+1. Improve the effectiveness of the sentence correction section to help achieve better results.
+2. Make the course less lengthy and monotonous.
+3. Consider adjusting the teaching method to better suit the time constraints of the GMAT.
+1. Reduce the extensiveness of the course to make it more manageable for working professionals.
+2. Improve the interface to make it less primitive.
+3. Make the videos more engaging to prevent them from being monotonous.
+4. Develop a good app for remote learning.
+- Add more additional questions to the quant course.
+1. Improve the Reading Comprehension section to be less time-consuming and more practical for exam conditions.
+2. Include information or strategies to help improve accuracy in Reading Comprehension.
+3. Enhance the application part of the course to be more helpful and effective for students.
+1. Make the sentence correction section less lengthy.
+2. Improve the time efficiency of the meaning-based approach.

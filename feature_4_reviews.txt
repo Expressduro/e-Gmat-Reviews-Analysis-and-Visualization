@@ -1,0 +1,167 @@
+- A dynamic planner that adjusts based on weekly availability or learning pace.
+- Make the process of logging errors for review later simpler and more categorical, allowing users to find all their previous errors in one place for easier review.
+- Allow creation of multiple sectional mocks with varying difficulty levels.
+- Add notes for all videos
+- Improve error log functionality, especially for those with a gap between their GMAT exam and last day of e-GMAT subscription
+- Improve interface for easy availability of solutions later on
+- Create a roster for students to go through the complete list of questions they have attempted
+1. Option to mark certain sections as complete during the course learning process for better plan adjustment.
+- Improve the media player used in the chapter recordings
+- Add an option to skip forward or backwards when reviewing concepts in the media player
+1. Improve the presentation of quant solutions to be less algebraic and more visual.
+2. Enhance the Personalised Study Plan tool to provide more accurate timelines for completion.
+3. Increase visibility on the overall plan structure in the Data Insights section.
+- Provide more accurate time estimates for the completion of each module.
+3. The tests should be AI-based and adaptive to individual students' needs.
+- Update the interface of the RC modules in the Verbal section, as it currently seems outdated and slow.
+- Simplify or streamline the error log process
+1. Make all parts of the course self-paced, allowing for speed adjustments.
+- Improve the accuracy of the estimated course durations.
+- Improve user interface to match that of GMAT
+- Include a 'confirm answer' option similar to the actual GMAT
+- Make interface improvements for easier navigation through the course modules.
+- More concise error-tracking mechanism
+- Text-based references for solving questions instead of video descriptions
+- Add a feature to download the error log in excel format along with the question links.
+2. Implement an AI-based algorithm to analyze attempted questions and automatically build an error log, reducing the need for manual inputs.
+- An internal auto populated error log like GmatClub
+- Add an option to enhance video speed in certain verbal concepts.
+- Simplify the Error log to prevent it from becoming overwhelming for students
+- Introduce an app version for easier mobile studying
+1. Optimize the website for phone or tablet use as videos sometimes refuse to load.
+2. Develop a mobile application for e-GMAT.
+- Improve the performance metrics for the DI section's MSR questions, as they are currently flawed.
+- More time-efficient study options
+- Clearer instructions on how to follow the Study Plan
+2. Include a feature where, when solving incorrect questions, if done correctly the next time, only residual incorrect questions are available for practice.
+- Section wise exams
+- Allow flexibility in creating a cementing quiz of 23 questions for verbal, specifically the ability to choose 3-4 questions per passage.
+- Personalize the user experience by having a short meeting at the beginning of the course to shape the path for each student.
+- Addition of a feature to review 3 questions in quizzes
+- Make the platform less overwhelming for new users
+- Improve visibility or awareness of the Q&A feature for each question
+- Ability to switch between offered products
+- Improve the Personalized Study Plan to better estimate the time needed to complete all lessons and quizzes.
+2. Implement a 1:1 support channel directly on the platform.
+- Make the platform more interactive to track whether users are following the plan or not
+1. Provide a more accurate and personalized "time-to-test-readiness" projection, based on first Mock attempt, diagnostic quizzes, first learning modules studied and the student's studying agenda.
+- Include the option to watch the videos at an increased speed
+- Improve navigation of Scholaranium
+- Extend the PACE feature to the DI section
+- PACE style optimization for Verbal section
+- Include an option to watch lessons at 1.25X or 1.5X speed
+- Enhance the feedback system to provide more detailed insights into user performance, including specific feedback on incorrect answers and guidance on improvement areas.
+- Explore the integration of AI-driven adaptive learning technologies to personalize the learning experience, including dynamic adjustments to study plans based on individual progress and performance.
+- Improve the accessibility of the platform on mobile devices.
+- Add a tempo option to module files (non-video) to speed up the lessons.
+- Enable 2x speed for verbal modules
+- Improve website design/layout to better simulate the real GMAT experience.
+- Improve the product's compatibility with the Safari browser.
+- Improve the interface
+- Improve navigation
+1) Better/more seamless way to access official OG questions
+2) Live chat for more urgent queries
+- Have an option to set pace for videos
+- Update some Verbal Ability modules to the new interface as seen in Quantitative Ability modules.
+- Add an option to fast forward through the coursework
+-Incorporate advanced analytics to track individual progress
+- Add a feature to fast forward the videos in the verbal section
+- Allow videos to be watched at 1.5x or 2x speed
+- Allow users to work based on their individual weaknesses and strengths
+- Provide the option for users to create their own schedule
+- Implement a feature that allows users to increase the playback speed of videos in the core e-GMAT modules.
+- Include error logs as part of the course structure for logging reasons when a question went wrong.
+- More clarity on how to utilize custom quizzes and practice questions effectively.
+- Option to speed up the videos
+- Implement a counter at the backend to count the number of times a question has appeared in a quiz, ensuring all questions appear uniformly during revisions.
+- Improve navigation through the Quant Course Material
+- Improve the UI/UX design to make it less generic and more engaging for long study sessions.
+- Development of an Android app for the course
+- Make course content available for offline study
+- Make the UI for Sigma-X mocks more similar to the actual GMAT to create a more authentic experience
+1. Provide a more colorful, graphical display for the score sheet.
+3. Improve the search function for selecting colleges to send scores to, as the current system can be time-consuming and potentially stressful.
+- Improve the speed of the slide presentation
+- Add a speed change button to the slide presentation
+- Improve course extension options
+- Make the interface for the verbal section similar to the quant section
+- Add an option to re-attempt the practice quizzes as a quiz in the verbal section
+- Improve the portal for accessing previously solved questions
+2) Add an option to watch the video at a higher speed.
+- Possibility to change the speed of the video
+- Improve the error log
+- Continue to evolve the PACE feature
+1. Faster playback option in the concept files for revising concepts.
+- Make the verbal section of the course adaptive.
+- Add a "Playback Speed" option for all videos, including Concept Videos of Sentence Correction.
+- Include a feature that allows users to select the type of 'Question Pool' for Custom Quizzes.
+- Option to skip some videos based on performance in quizzes to avoid monotony.
+- Make course planning easier to understand
+2. Include an error log in the Scholaranium tool: The student believes that having an automated or built-in error log would be beneficial, rather than having students document errors on excel sheets.
+- Streamline the discussion thread for easier navigation and removal of stale or inaccurate answers
+- Provide an option to reset the mock test
+- Introduce AI to the verbal section of the course
+- Make helpful links and videos readily available in the student's dashboard
+- Allow students to book exam dates more flexibly and encourage them not to strive for perfection on the first try.
+2. Improve exam readiness preparation - ensure the dashboard accurately reflects a student's strengths and weaknesses.
+1. Introduction of a separate time improvement mode to help apply the concepts.
+2. Keep test review access open even when the product time expires.
+- Hide the color coding (Green/Red) in the answer choices upon answering a question.
+- Allow for a second attempt at a question before revealing the correct answer.
+- Improve the browsing and navigating experience to be more effortless
+- Improve the interface (UI) to be more intuitive
+- Increase course customization options
+- Improve the AI tool that gives suggestions
+2. The mock test UI should reflect the actual test UI to make it easier for the actual attempt.
+- Make instructions on how to use the course clearer
+- Include a separate onboarding process to help new students understand how to use the platform
+- Make the platform more user-friendly for those unfamiliar with it
+- Include an inbuilt error log feature in the course
+- Include a feature to track progress or time spent
+- Develop a feature like 'PACE' for the verbal course
+- Add a playback speed option for the verbal videos
+- Implement a feature like 'Pace' in the verbal section, similar to the Quant section
+- Improve the error logs to be less lengthy and easier to work with
+- Add a feature in Scholaranium to hide correct or incorrect answers during quiz review, with a "show answer" button to reveal the correct answer when needed.
+- Add a call feature for mentor-student communication
+- Update the Verbal section video player to allow speed control
+- Increase the default speed of the videos
+- More flexible account suspension timeline
+- Tagging of Easy, Medium, and Hard questions
+- Create a similar tool to P.A.C.E. for the Verbal section of the test prep.
+- Add a personalisation feature to the course material.
+- Provide more accurate time estimates for course material completion
+- Allow for more flexibility in the study plan to skip certain parts without affecting learning
+1. Add feature to listen to videos at 1.5x/2x speed.
+1. Include a feature for maintaining a proper error log.
+2. Provide a feature for redoing the questions that were answered incorrectly.
+3. Address glitches in the online software to ensure a smoother testing experience.
+2. Improve navigation through the online modules for easier scrolling and revising.
+3. Better organize summary slides to aid students in note-taking.
+1. Make the Error analysis for choice A in the Sentence Correction course less time consuming.
+1. Add a 'play faster' button to increase the video pace to 1.25 or 1.5x in the verbal course.
+3. Improve response time in the Scholaranium section.
+1. Improve the quality of the physical whiteboard provided for the GMAT Online Exam.
+3. Improve the system to avoid hanging issues during the GMAT Online Exam.
+1. Improve the statistics feature in Scholaranium 2.0 to make it easier to identify patterns in mistakes.
+2. Enhance the error log feature to better help students avoid repeating mistakes.
+3. Improve the Bookmark and Notes features for more efficient revision.
+2. The student suggests improvements in the Scholaranium to make it more customizable to practice on specific sections.
+4. Provide more detailed analytics in Scholaranium to help identify weak areas more effectively.
+6. Enhance the program that helps students build hyper specific study plans to make it more user-friendly and effective.
+1. Provide more analytics in the upgraded version of the scholarinium.
+- Improve the User Interface of the Sigma-X to be more like the actual GMAT
+2) Improve the video quality for the IR section and remove unwanted background images.
+2. Improve the audio quality in the free trial.
+- Add an option to watch the videos at a higher speed.
+3. Improve the layout and organization of the course content.
+- Improve the query resolution system on the E-gmat forum to respond to queries more quickly and comprehensively
+2. Allow for customization of course progression, such as starting with exercises before watching introductory units.
+4. Provide a more user-friendly way to customize the course to individual needs without needing a mentor's assistance.
+3. Improve the layout and organization of the course content.
+2. Improve the interface to allow for easier search through previous questions/comments.
+3. Make the interface more user-friendly and less reliant on flash player.
+4. Improve the table of contents and make topics searchable.
+1. Reduce repetition in webinars and emails.
+2. Improve the interface to make it less primitive.
+4. Develop a good app for remote learning.
